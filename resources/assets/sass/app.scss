@@ -1,0 +1,28 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+
+//Fontawesome
+@import '~font-awesome/scss/font-awesome';
+
+//simple-line-icons
+@import '~simple-line-icons/scss/simple-line-icons';
+
+//Core UI
+@import '~@coreui/coreui/scss/coreui';
+
+//DataTables
+@import '~datatables.net-bs4/css/dataTables.bootstrap4.min.css';
+
+//Select2
+@import '~select2/dist/css/select2.min.css';
+@import '~@ttskch/select2-bootstrap4-theme/dist/select2-bootstrap4.min.css';
+
+//Pace
+@import '~pace-progress/themes/blue/pace-theme-minimal.css';
